@@ -1,23 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import StockDashboard from '../src/Components/StockDashboard'
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="font-sans p-6 
+    bg-gradient-to-r from-gray-700 via-gray-800 to-gray-900
+     min-h-screen text-white">
+      <h1 className="text-4xl font-bold mb-8 text-center">Stock Market Data</h1>
+      <StockDashboard />
     </div>
   );
 }
