@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hthkydv/Stock-graph.git/static/css/main.c3b63106.css",
-    "main.js": "/hthkydv/Stock-graph.git/static/js/main.bdf0de20.js",
-    "static/js/453.3f326a28.chunk.js": "/hthkydv/Stock-graph.git/static/js/453.3f326a28.chunk.js",
-    "index.html": "/hthkydv/Stock-graph.git/index.html",
-    "main.c3b63106.css.map": "/hthkydv/Stock-graph.git/static/css/main.c3b63106.css.map",
-    "main.bdf0de20.js.map": "/hthkydv/Stock-graph.git/static/js/main.bdf0de20.js.map",
-    "453.3f326a28.chunk.js.map": "/hthkydv/Stock-graph.git/static/js/453.3f326a28.chunk.js.map"
+    "main.css": "/Stock-graph/static/css/main.c3b63106.css",
+    "main.js": "/Stock-graph/static/js/main.001ec980.js",
+    "static/js/453.3f326a28.chunk.js": "/Stock-graph/static/js/453.3f326a28.chunk.js",
+    "index.html": "/Stock-graph/index.html",
+    "main.c3b63106.css.map": "/Stock-graph/static/css/main.c3b63106.css.map",
+    "main.001ec980.js.map": "/Stock-graph/static/js/main.001ec980.js.map",
+    "453.3f326a28.chunk.js.map": "/Stock-graph/static/js/453.3f326a28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3b63106.css",
-    "static/js/main.bdf0de20.js"
+    "static/js/main.001ec980.js"
   ]
 }
